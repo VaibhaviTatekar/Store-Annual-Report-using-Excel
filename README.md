@@ -1,4 +1,4 @@
-#Store Annual Report in Excel
+Store Annual Report in Excel
 
 Problem Statement:
 Understanding sales dynamics across gender, state, and age demographics alongside channel contributions, and addressing disparities between order volume and sales performance.
